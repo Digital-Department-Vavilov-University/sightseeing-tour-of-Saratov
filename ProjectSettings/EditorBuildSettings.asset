@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u043C\u0435\u043D\u044E.unity"
+    guid: 929f33a51498a9e42b7d58c0bbc7de62
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u0412\u043E\u043A\u0437\u0430\u043B.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u0414\u043E\u043C.unity"
+    guid: 069e7d606b1dd72428b65d0574072cd7
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u041A\u043E\u043D\u0441\u0435\u0440\u0432\u0430\u0442\u043E\u0440\u0438\u044F.unity"
+    guid: 2e7c165578e8c704b9e357e21ac27d96
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u041A\u0443\u043F\u0435\u0446.unity"
+    guid: 89ee7717197d71e41aeac411af27c1e4
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u041D\u0430\u0431\u0435\u0440\u0435\u0436\u043D\u0430\u044F.unity"
+    guid: 3a895d8f390e22649bd119fb6dc76d01
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430\u044F.unity"
+    guid: 6f2db5bf3044745459d68aabab2dd4a7
+  - enabled: 1
+    path: "Assets/\u0441\u0446\u0435\u043D\u044B/\u0426\u0435\u0440\u043A\u043E\u0432\u044C.unity"
+    guid: 9fa08f1a5d3723e4f9ae8ec4c0db8c3b
+  - enabled: 1
+    path: "Assets/\u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435/1
+      \u0431\u043B\u043E\u043A.unity"
+    guid: 7534eacd033153c4fb8249f4286d66ee
+  - enabled: 1
+    path: "Assets/\u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435/Menu.unity"
+    guid: 525b86b1c4b181a4ab22f55e38a8cbe1
+  m_configObjects: {}
